@@ -5,7 +5,9 @@ html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
 article,aside,details,figcaption,figure,footer,header,main,menu,nav,section{display:block}summary{display:list-item}
 audio,canvas,progress,video{display:inline-block}progress{vertical-align:baseline}
 audio:not([controls]){display:none;height:0}[hidden],template{display:none}
-a{background-color:transparent}a:active,a:hover{outline-width:0}
+a{background-color:transparent}a:active,a:hover{color: #808080;}
+a:link {text-decoration: none;}
+a:visited {text-decoration: none;}
 abbr[title]{border-bottom:none;text-decoration:underline;text-decoration:underline dotted}
 b,strong{font-weight:bolder}dfn{font-style:italic}mark{background:#ff0;color:#000}
 small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}
@@ -251,7 +253,3 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .border-pale-red,.hover-border-pale-red:hover{border-color:#ffe7e7!important}.border-pale-green,.hover-border-pale-green:hover{border-color:#e7ffe7!important}
 .border-pale-yellow,.hover-border-pale-yellow:hover{border-color:#ffffcc!important}.border-pale-blue,.hover-border-pale-blue:hover{border-color:#e7ffff!important}
 .roboto {font-family: "Roboto", sans-serif;font-optical-sizing: auto;font-weight:  normal;font-variation-settings:"width" 100;}
-a:link {text-decoration: none;}
-a:visited {text-decoration: none;}
-a:hover {color: #808080;}
-a:active {color: #808080;}
