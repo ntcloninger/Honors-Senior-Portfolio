@@ -156,15 +156,17 @@
   <div class="container padding-32" id="Contact">
     <h3 class="border-bottom border-light-grey padding-16">Contact</h3>
     <p>Lets get in touch.</p>
-    <form action="send_email_action.php" target="_blank">
-      <input class="input border" type="text" placeholder="Name" required name="Name">
-      <input class="input section border" type="text" placeholder="Email" required name="Email">
-      <input class="input section border" type="text" placeholder="Subject" required name="Subject">
-      <input class="input section border" type="text" placeholder="Comment" required name="Comment">
-      <button class="button black section" type="submit">
+    <form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSduexD2hwJeNfltzTQ5FqoA7zsju4piuuYCPdeZ4snpDfTcfQ/viewform?usp=pp_url&entry.1553863555=Name.id&entry.1757901565=Email.id&entry.137334728=Subject.id&entry.1356062895=Comment.id" target="hidden_iframe" onsubmit="submitted=true;">
+      Name: <br><input class="input border" type="text" placeholder="Name" required name="entry.1553863555" id="entry.1553863555"><br>
+      Email: <br><input class="input section border" type="text" placeholder="Email" name="entry.1757901565" id="entry.1757901565"><br>
+      Subject: <br><input class="input section border" type="text" placeholder="Subject" name="entry.137334728" id="entry.137334728"><br>
+      Comment: <br><input class="input section border" type="text" placeholder="Comment" name="entry.1356062895" id="entry.1356062895"><br>
+      <!--<input type="submit" value="Submit">-->
+      <button class="button black section" type="submit" value="Submit">
         <i class="fa fa-paper-plane"></i> SEND MESSAGE
       </button>
     </form>
+    <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
   </div>
   
 <!-- Image of location/map -->
