@@ -111,6 +111,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .grid{display:grid}.grid-padding{display:grid;gap:16px}.flex{display:flex}
 .text-center{text-align:center}.text-bold,.bold{font-weight:bold}.text-italic,.italic{font-style:italic}
 .code,.codespan{font-family:Consolas,"courier new";font-size:16px}
+.roboto{font-family:Roboto,"Roboto";font-size:16px}
 .code{width:auto;background-color:#fff;padding:8px 12px;border-left:4px solid #4CAF50;word-wrap:break-word}
 .codespan{color:crimson;background-color:#f1f1f1;padding-left:4px;padding-right:4px;font-size:110%}
 .card,.card-2{box-shadow:0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12)}
@@ -249,3 +250,8 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .border-dark-grey,.hover-border-dark-grey:hover,.border-dark-gray,.hover-border-dark-gray:hover{border-color:#616161!important}
 .border-pale-red,.hover-border-pale-red:hover{border-color:#ffe7e7!important}.border-pale-green,.hover-border-pale-green:hover{border-color:#e7ffe7!important}
 .border-pale-yellow,.hover-border-pale-yellow:hover{border-color:#ffffcc!important}.border-pale-blue,.hover-border-pale-blue:hover{border-color:#e7ffff!important}
+.roboto {font-family: "Roboto", sans-serif;font-optical-sizing: auto;font-weight:  normal;font-variation-settings:"width" 100;}
+a:link {text-decoration: none;}
+a:visited {text-decoration: none;}
+a:hover {color: #808080;}
+a:active {color: #808080;}
