@@ -1,0 +1,27 @@
+images\
+	Header.png
+Artifacts\
+	HIE 1\
+		Global Village Header.jpg
+	HIE 2\
+		\Triangle Lectures in Combinatorics.jpg
+	HIE 3\
+		Port City Java Logo.jpg
+		Port City Java Working.jpg
+		Port City Java Header.jpg
+	Artifact 1\
+		more images and graphs
+	Artifact 2\
+		more slides
+	Artifact 3\
+		way more images to compare
+	Artifact 4\
+		
+	Artifact 5\
+		Get photo from phone
+	Artifact 6\
+		Organize scanned files
+	Artifact 7\
+		Just get Metamorphoses image
+	Artifact 8\
+		if needed
