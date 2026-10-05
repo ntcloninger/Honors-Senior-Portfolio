@@ -9,19 +9,17 @@ Artifacts\
 		Port City Java Logo.jpg
 		Port City Java Working.jpg
 		Port City Java Header.jpg
-	Artifact 1\
-		more images and graphs
 	Artifact 2\
-		more slides
+		explain
 	Artifact 3\
-		way more images to compare
+		explain
 	Artifact 4\
-		
+		explain
 	Artifact 5\
-		Get photo from phone
+		explain
 	Artifact 6\
-		Organize scanned files
+		explain and anotate photos
 	Artifact 7\
-		Just get Metamorphoses image
+		explain
 	Artifact 8\
 		if needed
